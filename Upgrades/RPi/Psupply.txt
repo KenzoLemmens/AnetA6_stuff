@@ -1,2 +1,3 @@
-LM338   -> Voltage regulator
-LM2678  -> Buck convert
+LM338
+LM2678
+XL4015
