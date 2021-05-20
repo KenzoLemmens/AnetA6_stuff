@@ -7,3 +7,9 @@ Mainboard:
 
 RPi:
 - Needs 15W PSU
+
+HotEnd: 
+- Measured 2.5A, Rated 30W
+
+Bed:
+- Measured 9.10A, rated 120W
