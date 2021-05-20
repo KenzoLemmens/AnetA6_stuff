@@ -1,0 +1,3 @@
+Steppers (4):
+- rated at 14W each
+- measured
