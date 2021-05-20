@@ -4,3 +4,6 @@ Steppers (4):
 
 Mainboard:
 - measured 0.15A (PowerOn) 0.10A (idle) on 12V ->  1.8-1.2W
+
+RPi:
+- Needs 15W PSU
